@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ArtistetApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ArtistetApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ArtistetApplication.class, args);
+    }
 
 }
